@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/SchedulerReportingExample/Form1.cs) (VB: [Form1.vb](./VB/SchedulerReportingExample/Form1.vb))
+* [XtraSchedulerReport1.cs](./CS/SchedulerReportingExample/XtraSchedulerReport1.cs) (VB: [XtraSchedulerReport1.vb](./VB/SchedulerReportingExample/XtraSchedulerReport1.vb))
+<!-- default file list end -->
 # How to print the schedule using Scheduler Reporting
 
 
